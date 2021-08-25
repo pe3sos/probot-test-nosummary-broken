@@ -1,0 +1,2244 @@
+{
+  "object": "value",
+  "document": {
+    "key": "2ps49X4RS34UqhyH8KYM5",
+    "data": {},
+    "nodes": [
+      {
+        "key": "PVbNzg5oWeNVUYjRyARWV",
+        "data": {},
+        "type": "h1",
+        "nodes": [
+          {
+            "key": "HfUTt7zmdNmbqhqPviTDw",
+            "text": "Contributing",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "ETNrDeEIOuFciMI3OpPtI",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "-tzcMZOvYSXnvNARN1i1T",
+            "text": "Want to contribute to Slate? That would be awesome!",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "GjUkM1urzOc_ZewlHTVwC",
+        "data": {},
+        "type": "bulleted-list",
+        "nodes": [
+          {
+            "key": "Z4dSBi8LLahyz8gAh6_iq",
+            "data": {},
+            "type": "list-item",
+            "nodes": [
+              {
+                "key": "DWF81quQ-RwhRhh9jH13K",
+                "data": {},
+                "type": "list-item-child",
+                "nodes": [
+                  {
+                    "key": "3DJmyfhRYfMf2E5VdwlXa",
+                    "text": "",
+                    "marks": [],
+                    "object": "text"
+                  },
+                  {
+                    "key": "0mAvJtjsaBVnmf5kji1eJ",
+                    "data": {
+                      "docId": "8Z3QcDAaJXuip37wYTA4g",
+                      "label": "",
+                      "spaceId": "",
+                      "version": "v2"
+                    },
+                    "type": "mention-doc",
+                    "nodes": [
+                      {
+                        "key": "foWKHYbn08SacP0RYV681",
+                        "text": "Contributing",
+                        "marks": [],
+                        "object": "text"
+                      }
+                    ],
+                    "object": "inline"
+                  },
+                  {
+                    "key": "gcG0tlPkNocDetuQK9l4l",
+                    "text": "",
+                    "marks": [],
+                    "object": "text"
+                  }
+                ],
+                "object": "block"
+              },
+              {
+                "key": "om1eLo9qNkT-0l0OEZl-Z",
+                "data": {},
+                "type": "bulleted-list",
+                "nodes": [
+                  {
+                    "key": "bFciENPmnISsuJAOd7c2p",
+                    "data": {},
+                    "type": "list-item",
+                    "nodes": [
+                      {
+                        "key": "Eu-lSSfyz1A5VXhyX8xAs",
+                        "data": {},
+                        "type": "list-item-child",
+                        "nodes": [
+                          {
+                            "key": "V5O5T1VC2bm8LS0DkKBtM",
+                            "text": "",
+                            "marks": [],
+                            "object": "text"
+                          },
+                          {
+                            "key": "fpV1ruK9U1Xo6g0DV6SNb",
+                            "data": {
+                              "docId": "8Z3QcDAaJXuip37wYTA4g",
+                              "label": "",
+                              "spaceId": "",
+                              "version": "v2"
+                            },
+                            "type": "mention-doc",
+                            "nodes": [
+                              {
+                                "key": "KpVivEm2si7Kvq05zqB5x",
+                                "text": "Reporting Bugs",
+                                "marks": [],
+                                "object": "text"
+                              }
+                            ],
+                            "object": "inline"
+                          },
+                          {
+                            "key": "YWbKb6q_S_NkJnP_rTzjS",
+                            "text": "",
+                            "marks": [],
+                            "object": "text"
+                          }
+                        ],
+                        "object": "block"
+                      }
+                    ],
+                    "object": "block"
+                  },
+                  {
+                    "key": "LN8vg_5Jfl60a3PivbAgo",
+                    "data": {},
+                    "type": "list-item",
+                    "nodes": [
+                      {
+                        "key": "U1Zhjxw45ZNTrj8csggb2",
+                        "data": {},
+                        "type": "list-item-child",
+                        "nodes": [
+                          {
+                            "key": "jH58ERPlSBK4sSJXV6xPw",
+                            "text": "",
+                            "marks": [],
+                            "object": "text"
+                          },
+                          {
+                            "key": "hB4M091Z2jxvZWCUdAYQY",
+                            "data": {
+                              "docId": "8Z3QcDAaJXuip37wYTA4g",
+                              "label": "",
+                              "spaceId": "",
+                              "version": "v2"
+                            },
+                            "type": "mention-doc",
+                            "nodes": [
+                              {
+                                "key": "DguBBuXOKfif2fAem3xBc",
+                                "text": "Asking Questions",
+                                "marks": [],
+                                "object": "text"
+                              }
+                            ],
+                            "object": "inline"
+                          },
+                          {
+                            "key": "DS8Fx42KrJiJp2qXdcfNL",
+                            "text": "",
+                            "marks": [],
+                            "object": "text"
+                          }
+                        ],
+                        "object": "block"
+                      }
+                    ],
+                    "object": "block"
+                  },
+                  {
+                    "key": "ZzPWXqaCWOZ9TQ0AnpJx7",
+                    "data": {},
+                    "type": "list-item",
+                    "nodes": [
+                      {
+                        "key": "-yKvvXoKrEATOPPk89TPg",
+                        "data": {},
+                        "type": "list-item-child",
+                        "nodes": [
+                          {
+                            "key": "g0gb85nMyjWJt2KJYs_wD",
+                            "text": "",
+                            "marks": [],
+                            "object": "text"
+                          },
+                          {
+                            "key": "0TIlFJmxfQi7UycN7yPji",
+                            "data": {
+                              "docId": "8Z3QcDAaJXuip37wYTA4g",
+                              "label": "",
+                              "spaceId": "",
+                              "version": "v2"
+                            },
+                            "type": "mention-doc",
+                            "nodes": [
+                              {
+                                "key": "CImGIulzHeP4sxvmRO37y",
+                                "text": "Submitting Pull Requests",
+                                "marks": [],
+                                "object": "text"
+                              }
+                            ],
+                            "object": "inline"
+                          },
+                          {
+                            "key": "qdVzluy_4fDDmjypGO7L9",
+                            "text": "",
+                            "marks": [],
+                            "object": "text"
+                          }
+                        ],
+                        "object": "block"
+                      }
+                    ],
+                    "object": "block"
+                  },
+                  {
+                    "key": "H3LDym4l2C9DzyuJ997-a",
+                    "data": {},
+                    "type": "list-item",
+                    "nodes": [
+                      {
+                        "key": "wSbI3CVuqRhNyVVDew2aU",
+                        "data": {},
+                        "type": "list-item-child",
+                        "nodes": [
+                          {
+                            "key": "24RoFnnYxaVwVDJZ1Djf8",
+                            "text": "",
+                            "marks": [],
+                            "object": "text"
+                          },
+                          {
+                            "key": "9-LkaizRsswdDMCWJlede",
+                            "data": {
+                              "docId": "8Z3QcDAaJXuip37wYTA4g",
+                              "label": "",
+                              "spaceId": "",
+                              "version": "v2"
+                            },
+                            "type": "mention-doc",
+                            "nodes": [
+                              {
+                                "key": "koR72Nv-VZKUwJXvq9MJA",
+                                "text": "Repository Setup",
+                                "marks": [],
+                                "object": "text"
+                              }
+                            ],
+                            "object": "inline"
+                          },
+                          {
+                            "key": "FVSPmilepjNegnIP7wiBW",
+                            "text": "",
+                            "marks": [],
+                            "object": "text"
+                          }
+                        ],
+                        "object": "block"
+                      }
+                    ],
+                    "object": "block"
+                  },
+                  {
+                    "key": "sqxasZuiQ0pGJobSjdUcX",
+                    "data": {},
+                    "type": "list-item",
+                    "nodes": [
+                      {
+                        "key": "v1-RtkuVL_95XpYHXD_wq",
+                        "data": {},
+                        "type": "list-item-child",
+                        "nodes": [
+                          {
+                            "key": "f2jEEaR2uJavB3pEaGVpM",
+                            "text": "",
+                            "marks": [],
+                            "object": "text"
+                          },
+                          {
+                            "key": "3qE_xuyGpHj6a4SnYDqlR",
+                            "data": {
+                              "docId": "8Z3QcDAaJXuip37wYTA4g",
+                              "label": "",
+                              "spaceId": "",
+                              "version": "v2"
+                            },
+                            "type": "mention-doc",
+                            "nodes": [
+                              {
+                                "key": "k26HQ1XKapIuVtywzyEEh",
+                                "text": "Running Examples",
+                                "marks": [],
+                                "object": "text"
+                              }
+                            ],
+                            "object": "inline"
+                          },
+                          {
+                            "key": "1ReWPDpN8pawb1CDqmWQO",
+                            "text": "",
+                            "marks": [],
+                            "object": "text"
+                          }
+                        ],
+                        "object": "block"
+                      }
+                    ],
+                    "object": "block"
+                  },
+                  {
+                    "key": "ALSyAVoJq46Mv6OeQxP46",
+                    "data": {},
+                    "type": "list-item",
+                    "nodes": [
+                      {
+                        "key": "dKE9KV9sig1wLjOg8-Z0b",
+                        "data": {},
+                        "type": "list-item-child",
+                        "nodes": [
+                          {
+                            "key": "702yiDDkDIdKIePVuqLnH",
+                            "text": "",
+                            "marks": [],
+                            "object": "text"
+                          },
+                          {
+                            "key": "HGeD5Ptnc6DjWdEhbH0TM",
+                            "data": {
+                              "docId": "8Z3QcDAaJXuip37wYTA4g",
+                              "label": "",
+                              "spaceId": "",
+                              "version": "v2"
+                            },
+                            "type": "mention-doc",
+                            "nodes": [
+                              {
+                                "key": "6HNxLy2bAviz2OVlwb3Z1",
+                                "text": "Running Tests",
+                                "marks": [],
+                                "object": "text"
+                              }
+                            ],
+                            "object": "inline"
+                          },
+                          {
+                            "key": "Q_UlgHHCUbRtFPL9iXYSI",
+                            "text": "",
+                            "marks": [],
+                            "object": "text"
+                          }
+                        ],
+                        "object": "block"
+                      }
+                    ],
+                    "object": "block"
+                  },
+                  {
+                    "key": "BSJkJG2yyskBLJ4XVtbIL",
+                    "data": {},
+                    "type": "list-item",
+                    "nodes": [
+                      {
+                        "key": "LToErtWdXGg-pg5ly6fOr",
+                        "data": {},
+                        "type": "list-item-child",
+                        "nodes": [
+                          {
+                            "key": "q6pUXyXRnub-JfD1XGGo9",
+                            "text": "",
+                            "marks": [],
+                            "object": "text"
+                          },
+                          {
+                            "key": "bGDoTltWy4FNofXzcmye2",
+                            "data": {
+                              "docId": "8Z3QcDAaJXuip37wYTA4g",
+                              "label": "",
+                              "spaceId": "",
+                              "version": "v2"
+                            },
+                            "type": "mention-doc",
+                            "nodes": [
+                              {
+                                "key": "Tg0hU_AxfljpmH2gEDF-3",
+                                "text": "Testing Input Methods",
+                                "marks": [],
+                                "object": "text"
+                              }
+                            ],
+                            "object": "inline"
+                          },
+                          {
+                            "key": "VZ3xzaE7Qa3sZYMUShUW2",
+                            "text": "",
+                            "marks": [],
+                            "object": "text"
+                          }
+                        ],
+                        "object": "block"
+                      }
+                    ],
+                    "object": "block"
+                  },
+                  {
+                    "key": "12M4oFmLH3wB5qbMLzLTh",
+                    "data": {},
+                    "type": "list-item",
+                    "nodes": [
+                      {
+                        "key": "Tnfh3ujUDLhN45ID5mL5Z",
+                        "data": {},
+                        "type": "list-item-child",
+                        "nodes": [
+                          {
+                            "key": "7Ecw9f5Af8nSLG83nijgQ",
+                            "text": "",
+                            "marks": [],
+                            "object": "text"
+                          },
+                          {
+                            "key": "FjlhgVSKXdQBO_pMCJbP-",
+                            "data": {
+                              "docId": "8Z3QcDAaJXuip37wYTA4g",
+                              "label": "",
+                              "spaceId": "",
+                              "version": "v2"
+                            },
+                            "type": "mention-doc",
+                            "nodes": [
+                              {
+                                "key": "DdHvlDEUoSAKN7OVVqftN",
+                                "text": "Publishing Releases",
+                                "marks": [],
+                                "object": "text"
+                              }
+                            ],
+                            "object": "inline"
+                          },
+                          {
+                            "key": "E16_-MWM0j94HcEkCzPo1",
+                            "text": "",
+                            "marks": [],
+                            "object": "text"
+                          }
+                        ],
+                        "object": "block"
+                      },
+                      {
+                        "key": "nfekLPmOgKT2vOFjEu5Qh",
+                        "data": {},
+                        "type": "bulleted-list",
+                        "nodes": [
+                          {
+                            "key": "mQojjpTfB3wd7j9ht1Fas",
+                            "data": {},
+                            "type": "list-item",
+                            "nodes": [
+                              {
+                                "key": "ttxHudASyG1ngwnFlTWq0",
+                                "data": {},
+                                "type": "list-item-child",
+                                "nodes": [
+                                  {
+                                    "key": "F8OYFm6kjUeOJBlgS8TnC",
+                                    "text": "",
+                                    "marks": [],
+                                    "object": "text"
+                                  },
+                                  {
+                                    "key": "ZoRKXfXyBAr40BAluRUGT",
+                                    "data": {
+                                      "docId": "8Z3QcDAaJXuip37wYTA4g",
+                                      "label": "",
+                                      "spaceId": "",
+                                      "version": "v2"
+                                    },
+                                    "type": "mention-doc",
+                                    "nodes": [
+                                      {
+                                        "key": "sAGeO7AK_vMi4UZ_NPRJC",
+                                        "text": "Publishing Normal ",
+                                        "marks": [],
+                                        "object": "text"
+                                      },
+                                      {
+                                        "key": "AyQi-1YsLEDP5GxMKVO6H",
+                                        "text": "@latest",
+                                        "marks": [
+                                          {
+                                            "data": {},
+                                            "type": "highlight",
+                                            "object": "mark"
+                                          }
+                                        ],
+                                        "object": "text"
+                                      },
+                                      {
+                                        "key": "ChNcffxejX0-keyO0k25a",
+                                        "text": " Release",
+                                        "marks": [],
+                                        "object": "text"
+                                      }
+                                    ],
+                                    "object": "inline"
+                                  },
+                                  {
+                                    "key": "NiB9fFdv4R_Xz2cTz9niC",
+                                    "text": "",
+                                    "marks": [],
+                                    "object": "text"
+                                  }
+                                ],
+                                "object": "block"
+                              }
+                            ],
+                            "object": "block"
+                          },
+                          {
+                            "key": "EFaufi5RVem21QsfjbVVV",
+                            "data": {},
+                            "type": "list-item",
+                            "nodes": [
+                              {
+                                "key": "xWYZTs8qae_mVuZXYXTYn",
+                                "data": {},
+                                "type": "list-item-child",
+                                "nodes": [
+                                  {
+                                    "key": "HavaxQL6vSY_a_ykMpGjS",
+                                    "text": "",
+                                    "marks": [],
+                                    "object": "text"
+                                  },
+                                  {
+                                    "key": "L5YcVrtC4IG1Xc2nbaiil",
+                                    "data": {
+                                      "docId": "8Z3QcDAaJXuip37wYTA4g",
+                                      "label": "",
+                                      "spaceId": "",
+                                      "version": "v2"
+                                    },
+                                    "type": "mention-doc",
+                                    "nodes": [
+                                      {
+                                        "key": "wv6Qm3ZkZx0HVd7KH-pMs",
+                                        "text": "Publishing ",
+                                        "marks": [],
+                                        "object": "text"
+                                      },
+                                      {
+                                        "key": "f6qhewAn8gfpKiDT9z0as",
+                                        "text": "@next",
+                                        "marks": [
+                                          {
+                                            "data": {},
+                                            "type": "highlight",
+                                            "object": "mark"
+                                          }
+                                        ],
+                                        "object": "text"
+                                      },
+                                      {
+                                        "key": "lo-J35NcQduk6zQAycPl_",
+                                        "text": " Release",
+                                        "marks": [],
+                                        "object": "text"
+                                      }
+                                    ],
+                                    "object": "inline"
+                                  },
+                                  {
+                                    "key": "RGnE872HHYu_INI77Limu",
+                                    "text": "",
+                                    "marks": [],
+                                    "object": "text"
+                                  }
+                                ],
+                                "object": "block"
+                              }
+                            ],
+                            "object": "block"
+                          },
+                          {
+                            "key": "dBrLL3UkpNt10o1kp4dVP",
+                            "data": {},
+                            "type": "list-item",
+                            "nodes": [
+                              {
+                                "key": "Rm0w0XDPZVvWPGchWmBYk",
+                                "data": {},
+                                "type": "list-item-child",
+                                "nodes": [
+                                  {
+                                    "key": "-ACjFtSZIhONQypnegLCS",
+                                    "text": "",
+                                    "marks": [],
+                                    "object": "text"
+                                  },
+                                  {
+                                    "key": "3OgL-95l10sNwi8Ye8HWT",
+                                    "data": {
+                                      "docId": "8Z3QcDAaJXuip37wYTA4g",
+                                      "label": "",
+                                      "spaceId": "",
+                                      "version": "v2"
+                                    },
+                                    "type": "mention-doc",
+                                    "nodes": [
+                                      {
+                                        "key": "jCoFhhilb-zzlAKPAoM5e",
+                                        "text": "Publishing ",
+                                        "marks": [],
+                                        "object": "text"
+                                      },
+                                      {
+                                        "key": "da16yma7_Pd_-9DMcANw-",
+                                        "text": "@experimental",
+                                        "marks": [
+                                          {
+                                            "data": {},
+                                            "type": "highlight",
+                                            "object": "mark"
+                                          }
+                                        ],
+                                        "object": "text"
+                                      },
+                                      {
+                                        "key": "i9X4s0AwygfXRi5G_wqG6",
+                                        "text": " Release",
+                                        "marks": [],
+                                        "object": "text"
+                                      }
+                                    ],
+                                    "object": "inline"
+                                  },
+                                  {
+                                    "key": "zdRXUrs2E_PsI34HOzmPE",
+                                    "text": "",
+                                    "marks": [],
+                                    "object": "text"
+                                  }
+                                ],
+                                "object": "block"
+                              }
+                            ],
+                            "object": "block"
+                          },
+                          {
+                            "key": "UGh1XxuQIQLJW6wdca_RU",
+                            "data": {},
+                            "type": "list-item",
+                            "nodes": [
+                              {
+                                "key": "ohyF5NTGjQZGJkxp_IPKG",
+                                "data": {},
+                                "type": "list-item-child",
+                                "nodes": [
+                                  {
+                                    "key": "Av41DOVXaTFd_CEwpZ7Td",
+                                    "text": "",
+                                    "marks": [],
+                                    "object": "text"
+                                  },
+                                  {
+                                    "key": "Jg-tPpqgmpVznFjJIFKT6",
+                                    "data": {
+                                      "docId": "8Z3QcDAaJXuip37wYTA4g",
+                                      "label": "",
+                                      "spaceId": "",
+                                      "version": "v2"
+                                    },
+                                    "type": "mention-doc",
+                                    "nodes": [
+                                      {
+                                        "key": "qDP4yU5E01Bs8xl4d_kQe",
+                                        "text": "Running Prerelease Script",
+                                        "marks": [],
+                                        "object": "text"
+                                      }
+                                    ],
+                                    "object": "inline"
+                                  },
+                                  {
+                                    "key": "jxVoK3J1oSqC2WEk1yJs4",
+                                    "text": "",
+                                    "marks": [],
+                                    "object": "text"
+                                  }
+                                ],
+                                "object": "block"
+                              }
+                            ],
+                            "object": "block"
+                          }
+                        ],
+                        "object": "block"
+                      }
+                    ],
+                    "object": "block"
+                  }
+                ],
+                "object": "block"
+              }
+            ],
+            "object": "block"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "spSQdupWs1SCUNjGBLGox",
+        "data": {},
+        "type": "h2",
+        "nodes": [
+          {
+            "key": "t4ImFL_FvJBpqmgHSsz74",
+            "text": "Reporting Bugs",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "0C7qyWqToR1SCLB95rf1R",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "US0urwGyKwOhRav6rteR6",
+            "text": "If you run into any weird behavior while using Slate, feel free to open a new issue in this repository! ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "xSDG1jxhoanI36by2mEKO",
+            "data": {
+              "href": "http://localhost:3000/docs/5K742dsquW7pwjh5MHn03/8Z3QcDAaJXuip37wYTA4g#sp-reporting-bugs",
+              "newTab": true
+            },
+            "type": "link",
+            "nodes": [
+              {
+                "key": "r3mfNtYPex3YSPKeJVSEJ",
+                "text": "Please run a ",
+                "marks": [],
+                "object": "text"
+              },
+              {
+                "key": "hBAU3oxVeUj9DBfo7u58c",
+                "text": "search before opening",
+                "marks": [
+                  {
+                    "data": {},
+                    "type": "bold",
+                    "object": "mark"
+                  }
+                ],
+                "object": "text"
+              }
+            ],
+            "object": "inline"
+          },
+          {
+            "key": "ZMJ3QEQPL3G14-V2GUZrp",
+            "text": " a new issue, to make sure that someone else hasn't already reported or solved the bug you've found.",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "e0HUQBvKDXWSUApaAjV1p",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "hvw59lg_CicG4mHA5KUWw",
+            "text": "Any issue you open must include:",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "TWB1IZLmY2F28toF-cWqm",
+        "data": {},
+        "type": "bulleted-list",
+        "nodes": [
+          {
+            "key": "1rVGqt03EzPUhiiHjLbC9",
+            "data": {},
+            "type": "list-item",
+            "nodes": [
+              {
+                "key": "b5QPEuHzEsixyABzFVZ9j",
+                "data": {},
+                "type": "list-item-child",
+                "nodes": [
+                  {
+                    "key": "lqOjwNhBilbFareTGkPig",
+                    "text": "A ",
+                    "marks": [],
+                    "object": "text"
+                  },
+                  {
+                    "key": "OvTDEOQF7btUC8ItL4xTJ",
+                    "data": {
+                      "href": "https://jsfiddle.net/01pLxfzu/"
+                    },
+                    "type": "link",
+                    "nodes": [
+                      {
+                        "key": "SlLI6nMJUfmpamhULQCjg",
+                        "text": "JSFiddle",
+                        "marks": [],
+                        "object": "text"
+                      }
+                    ],
+                    "object": "inline"
+                  },
+                  {
+                    "key": "44My5f4MKgVRT2fXG1sPD",
+                    "text": " that reproduces the bug with a minimal setup.",
+                    "marks": [],
+                    "object": "text"
+                  }
+                ],
+                "object": "block"
+              }
+            ],
+            "object": "block"
+          },
+          {
+            "key": "8T5mEep_O3H735AD32EcZ",
+            "data": {},
+            "type": "list-item",
+            "nodes": [
+              {
+                "key": "KWpg3lARlyRv3AjQ4SYTc",
+                "data": {},
+                "type": "list-item-child",
+                "nodes": [
+                  {
+                    "key": "sugKNQ9JBUKO8dwYXEkYD",
+                    "text": "A GIF showing the issue in action. (Using something like ",
+                    "marks": [],
+                    "object": "text"
+                  },
+                  {
+                    "key": "7y4Cr-_LPzf6CrMZRWPmh",
+                    "data": {
+                      "href": "http://recordit.co/"
+                    },
+                    "type": "link",
+                    "nodes": [
+                      {
+                        "key": "MBo_HjTr-LFdpJ_zPYVLL",
+                        "text": "RecordIt",
+                        "marks": [],
+                        "object": "text"
+                      }
+                    ],
+                    "object": "inline"
+                  },
+                  {
+                    "key": "omdaKe86GS_OQq56Udeqz",
+                    "text": ".)",
+                    "marks": [],
+                    "object": "text"
+                  }
+                ],
+                "object": "block"
+              }
+            ],
+            "object": "block"
+          },
+          {
+            "key": "uf68_tEonAT0eDE5lHde8",
+            "data": {},
+            "type": "list-item",
+            "nodes": [
+              {
+                "key": "4DqTrHFuslStc9Eq9hthV",
+                "data": {},
+                "type": "list-item-child",
+                "nodes": [
+                  {
+                    "key": "HrR6bAJ0Y4G9pdHewQbjg",
+                    "text": "A clear explanation of what the issue is.",
+                    "marks": [],
+                    "object": "text"
+                  }
+                ],
+                "object": "block"
+              }
+            ],
+            "object": "block"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "m6NuFcOkb8LDQimgY6_a3",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "6vo3qlVrk7lfPCHg0ZEPM",
+            "text": "Here's a ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "v5BIrPrFeArWhDZvXPrGB",
+            "data": {
+              "href": "https://jsfiddle.net/01pLxfzu/"
+            },
+            "type": "link",
+            "nodes": [
+              {
+                "key": "C44IV4oRNl_zlJtt0Pcc3",
+                "text": "JSFiddle template for Slate",
+                "marks": [],
+                "object": "text"
+              }
+            ],
+            "object": "inline"
+          },
+          {
+            "key": "TdTs877qe2DbUZBUrlFEf",
+            "text": " to get you started:",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "dCDIopYibqiYlDcf5VuGp",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "z5BZRUeiYnCmTn-9nu1cQ",
+            "text": "",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "Td9oYW52_G0gU2XJR2fpw",
+            "data": {
+              "href": "https://jsfiddle.net/01pLxfzu/"
+            },
+            "type": "link",
+            "nodes": [
+              {
+                "key": "OFyhKxvWbp-a6iZtOEKs8",
+                "text": "",
+                "marks": [],
+                "object": "text"
+              }
+            ],
+            "object": "inline"
+          },
+          {
+            "key": "V1B6Rd7GsbtwaWaqrpwyV",
+            "text": "",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "tdrNXtKcZacnMwncHT95U",
+        "data": {
+          "src": "https://archbee-doc-uploads-qa.s3.amazonaws.com/OdUNOv6d9MII3dDfdTjPR/0eJYW9qIGLv2CmW_bUwgC_jsfiddle.png",
+          "size": 100,
+          "caption": "Image JS FIDDLE",
+          "signedSrc": "https://archbee-doc-uploads-qa.s3.amazonaws.com/OdUNOv6d9MII3dDfdTjPR/0eJYW9qIGLv2CmW_bUwgC_jsfiddle.png",
+          "isUploading": false
+        },
+        "type": "image",
+        "nodes": [
+          {
+            "key": "V4lkUt1NoCLfHYEMsTae_",
+            "text": "",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "vy-_a8RpXHVGCu-hwfk3b",
+        "data": {},
+        "type": "h2",
+        "nodes": [
+          {
+            "key": "9ThCprC7sySSCo-RPRe33",
+            "text": "Asking Questions",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "0tmXdq9XK0wYDjA32A4wT",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "Pq-71atmBemskoRChuiI4",
+            "text": "We've also got a ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "beOg56LxLr0fsPDiuzI9I",
+            "data": {
+              "href": "https://slate-slack.herokuapp.com"
+            },
+            "type": "link",
+            "nodes": [
+              {
+                "key": "9hgbqGn-eWpRHNbbBDhos",
+                "text": "Slate Slack team",
+                "marks": [],
+                "object": "text"
+              }
+            ],
+            "object": "inline"
+          },
+          {
+            "key": "dFr4FLasYnZLZ7OQn3xQo",
+            "text": " where you can ask questions and get answers from other people using Slate:",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "O3ai4qaLxSkgwCK0fhpHY",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "FdnOzzkb3q8bkIioGkZXV",
+            "text": "",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "4EMrkSvPbU6MusPcLs91k",
+            "data": {
+              "href": "https://slate-slack.herokuapp.com"
+            },
+            "type": "link",
+            "nodes": [
+              {
+                "key": "W1WYfVM7gZkuYyRRZxvhm",
+                "text": "",
+                "marks": [],
+                "object": "text"
+              }
+            ],
+            "object": "inline"
+          },
+          {
+            "key": "KWBA7g44-t0mf4yZ66M1J",
+            "text": "",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "ky0t7_eVDV5eFFEj2klPP",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "hh-rUdVuyp1hmbWd-WpZV",
+            "text": "Please use the Slack instead of asking questions in issues, since we want to reserve issues for keeping track of bugs and features. We close questions in issues so that maintaining the project isn't overwhelming.",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "3p1Ca3M2kTkvMRo2Hfbs6",
+        "data": {},
+        "type": "h2",
+        "nodes": [
+          {
+            "key": "Okvb9qApV9qnwjKIbZH8d",
+            "text": "Submitting Pull Requests",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "xeP3s6N2E6nUUwyfk-5ri",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "9Ig7Y6UuB_gwUEF-PEhzL",
+            "text": "All pull requests are super welcomed and greatly appreciated! Issues in need of a solution are marked with a ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "4wgatriSWD1evsGMw9OjH",
+            "data": {
+              "href": "https://github.com/ianstormtaylor/slate/issues?q=is%3Aissue+is%3Aopen+label%3A%22%E2%99%A5+help%22"
+            },
+            "type": "link",
+            "nodes": [
+              {
+                "key": "BjonIZCT0jaVYmILhueHT",
+                "text": "♥ help",
+                "marks": [
+                  {
+                    "data": {},
+                    "type": "highlight",
+                    "object": "mark"
+                  }
+                ],
+                "object": "text"
+              }
+            ],
+            "object": "inline"
+          },
+          {
+            "key": "zi6AFTGNBQM5nPVuC2BnH",
+            "text": " label if you're looking for somewhere to start.",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "ZotZKC8JjPVxLE77jM532",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "ffkbbaGWLWMi_49G4GSji",
+            "text": "Please include tests and docs with every pull request!",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "R_HaB4Z-tng8FSVY2fZJ9",
+        "data": {},
+        "type": "h2",
+        "nodes": [
+          {
+            "key": "KomxthqnC7w6aZ9dehQCn",
+            "text": "Repository Setup",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "OCrMDhM8qo7RhfgvA_eE_",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "pt6VtXvz3UurKWtP_UCGC",
+            "text": "The slate repository is a monorepo that is managed with ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "nFraiUdynDM3TVItgurGs",
+            "data": {
+              "href": "https://github.com/lerna/lerna"
+            },
+            "type": "link",
+            "nodes": [
+              {
+                "key": "-xsDGYRCzEcjaCyWps4R0",
+                "text": "lerna",
+                "marks": [],
+                "object": "text"
+              }
+            ],
+            "object": "inline"
+          },
+          {
+            "key": "q8zX7Eoeuv4St7b7hSx77",
+            "text": ". Unlike more traditional repositories, this means that the repository must be built in order for tests, linting, or other common development activities to function as expected.",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "3Rt2fG2BruF8CRWdYB6Wy",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "fK6aSkCxLtpmmlOQTtjy3",
+            "text": "To run the build, you need to have the Slate repository cloned to your computer. After that, you need to ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "TnYt1pAMje8odxXjwvBYp",
+            "text": "cd",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "Ncwfz_k3QVXt1zuGKEC7k",
+            "text": " into the directory where you cloned it, and install the dependencies with ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "H490YCRKbHq0_ePTQjpCr",
+            "text": "yarn",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "QsVMPuoAiH74aFeqRLre9",
+            "text": " and build the monorepo:",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "5LgeW3GN53OGNEBSQdp8d",
+        "data": {
+          "code": {
+            "text": "yarn install\nyarn build"
+          },
+          "language": "text"
+        },
+        "type": "code-editor",
+        "nodes": [
+          {
+            "key": "Y2IiVJ-v98TuiD2IiABiI",
+            "text": "",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "oXmGV7UEWrq2mpjg9xLww",
+        "data": {},
+        "type": "h2",
+        "nodes": [
+          {
+            "key": "xsbfoqiJxD6QX5zDnU4XF",
+            "text": "Running Examples",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "QPfWRqes0bheDUkRkw6rU",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "NuKUAgIpw0RH344WX9uN7",
+            "text": "To run the examples, start by building the monorepo as described in the ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "6FcXfn8Asu5RuZHI3CCcO",
+            "data": {
+              "docId": "8Z3QcDAaJXuip37wYTA4g",
+              "label": "",
+              "spaceId": "",
+              "version": "v2"
+            },
+            "type": "mention-doc",
+            "nodes": [
+              {
+                "key": "7j26iYjiRG-Izxvcqc_m6",
+                "text": "Repository Setup",
+                "marks": [],
+                "object": "text"
+              }
+            ],
+            "object": "inline"
+          },
+          {
+            "key": "XOKF8mTeL089NltxHmleb",
+            "text": " section.",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "3oVvz3PZf8jxBxsMh7U-a",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "63sjeUa3NfrQ9Cf1frdVE",
+            "text": "Then you can start the examples server with:",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "gMDywm8OzT21hvqfYKgY-",
+        "data": {
+          "code": {
+            "text": "yarn start"
+          },
+          "language": "text"
+        },
+        "type": "code-editor",
+        "nodes": [
+          {
+            "key": "7tf_IgwRCFP-tkH8b-QWH",
+            "text": "",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "NjIF5kxLxqV6XQkA4Cl_h",
+        "data": {},
+        "type": "h2",
+        "nodes": [
+          {
+            "key": "2BTZbdscRy72BHSFEupg7",
+            "text": "Running Tests",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "LFHeq0tOqdZPhtr3GorMr",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "vQMv1B1yta5emcVLzh619",
+            "text": "To run the tests, start by building the monorepo as described in the ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "HCCS16Dp3baQIozVAaCmz",
+            "data": {
+              "docId": "8Z3QcDAaJXuip37wYTA4g",
+              "label": "",
+              "spaceId": "",
+              "version": "v2"
+            },
+            "type": "mention-doc",
+            "nodes": [
+              {
+                "key": "0g-EFRXakqEiDRRNZ1zwX",
+                "text": "Repository Setup",
+                "marks": [],
+                "object": "text"
+              }
+            ],
+            "object": "inline"
+          },
+          {
+            "key": "BeRzs7oC-zYZbQQvpyvSS",
+            "text": " section.",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "BlAHcQUdjP-ybId91TrEn",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "E0NujW8uI-lbufV93_Puk",
+            "text": "Then you can rerun the tests with:",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "4za-AqBWKC3T_gTk3qvJR",
+        "data": {
+          "code": {
+            "text": "yarn test"
+          },
+          "language": "text"
+        },
+        "type": "code-editor",
+        "nodes": [
+          {
+            "key": "oKsO8O1EzPiN3B-1ldMfj",
+            "text": "",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "6GcEUWDowcD6M59EbqX5Y",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "Y4cFcPBbWfdqk0hi9bee8",
+            "text": "If you need to debug something, you can add a ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "8QFTa8R3hBuNvzjjPbOiX",
+            "text": "debugger",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "q7kJecFRqLP5rsfPqke8c",
+            "text": " line to the source, and then run ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "roj1_B44y4YX2r-Q-2ogq",
+            "text": "yarn test:inspect",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "GlyOX000OSlX6_4X5tGBf",
+            "text": ".",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "9XdDAT6mGSfcU-X0UWDPZ",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "LL-RwZ_Osp-CfkLUVC-WQ",
+            "text": "If you only want to run a specific test or tests, you can run ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "OfhykUiOlpTnqQthjw3hD",
+            "text": "yarn test --fgrep=\"slate-react rendering\"",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "g4d9J4BAkswrNcboltclQ",
+            "text": " flag which will filter the tests being run by grepping for the string in each test. (This is a Mocha flag that gets passed through.)",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "6zAEvTmQR_VOwr2de0T8q",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "hmav4fbLWpPKJ9HVocgVC",
+            "text": "In addition to tests you should also run the linter:",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "Ff7rMltgT3f9nBzQXUYoo",
+        "data": {
+          "code": {
+            "text": "yarn lint"
+          },
+          "language": "text"
+        },
+        "type": "code-editor",
+        "nodes": [
+          {
+            "key": "n11OZVilbMBS2io1wpzP0",
+            "text": "",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "4cTQGZm7SRZAel476ckWB",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "8PtpeKU7X6-brFcgxEL39",
+            "text": "This will catch TypeScript, Prettier, and Eslint errors.",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "9AAU6zwCXBtNm8XfG89i9",
+        "data": {},
+        "type": "h2",
+        "nodes": [
+          {
+            "key": "aG7KsB7zYubW_6tmHuLz9",
+            "text": "Running integration tests",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "4_tQtk2TNbotAEKv7964f",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "8B05ccS_AqRHZykt0YeaB",
+            "text": "To run integrations with ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "tzXNBjrT5Uy_LW3JoHdS5",
+            "data": {
+              "href": "https://github.com/cypress-io/cypress"
+            },
+            "type": "link",
+            "nodes": [
+              {
+                "key": "eWBeYF2o9Gu_eocrRctPJ",
+                "text": "cypress",
+                "marks": [],
+                "object": "text"
+              }
+            ],
+            "object": "inline"
+          },
+          {
+            "key": "iQRKORnEH5j_Lk4sbPjaZ",
+            "text": ", first run ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "zX-tGkWOLTFKYNm4ngvKR",
+            "text": "yarn start",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "Sl65pqAEshBPOpkQMcafY",
+            "text": " to run the examples website, then run ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "6OtzGnlWT8bUIcal_DP7I",
+            "text": "yarn cypress:open",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "jinhe50YmOIXlDjTnhrpM",
+            "text": " in a separate session to open the cypress GUI.",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "8JsdAtoql0TiWY5u57UkA",
+        "data": {},
+        "type": "h2",
+        "nodes": [
+          {
+            "key": "yUeGfjBpI8eofrviF8GYg",
+            "text": "Testing Input Methods",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "r_aZYx8LXdTS-iX8OjarA",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "z29BaLaveTtRvL58tUAxT",
+            "text": "",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "B67FNisGsNIUSDoOKOaUG",
+            "data": {
+              "href": "https://github.com/Microsoft/vscode/wiki/IME-Test"
+            },
+            "type": "link",
+            "nodes": [
+              {
+                "key": "4cAil7llobFdYrG2y-_-Y",
+                "text": "Here's a helpful page",
+                "marks": [],
+                "object": "text"
+              }
+            ],
+            "object": "inline"
+          },
+          {
+            "key": "hr53UysHjvZoVvqB09T_g",
+            "text": " detailing how to test various input scenarios on Windows, Mac and Linux.",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "BXiFKsQN7HyUQyJpHGLXF",
+        "data": {},
+        "type": "h2",
+        "nodes": [
+          {
+            "key": "vQCVfz7dHNa8l7vaHj26u",
+            "text": "Publishing Releases",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "MquliKJ9Uaq5KgTxuCWwE",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "laj-HRPndzr9TZQ8dEWWQ",
+            "text": "Important",
+            "marks": [
+              {
+                "data": {},
+                "type": "bold",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "9XfKNbC5EutWZW-67tYKh",
+            "text": ": When creating releases using Lerna with the instructions below, you will be given choices around how to increase version numbers. You should always use a ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "XhXlPTXZkaVOYZxy3fhYg",
+            "text": "major",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "l5fHukHL6YEN6cMBkp_y9",
+            "text": ", ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "YIF8ggkaV4fcEGBwa0I8t",
+            "text": "minor",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "9TWw6bpz8US1y5soJw1Q8",
+            "text": " or ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "-e_tIU1MsARTp6s7Z6Tz3",
+            "text": "patch",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "fTPA5mBoiCYT-u57NZnV-",
+            "text": " release and must never use a ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "VIgC8btjo5ezvbpKkjK7A",
+            "text": "prerelease",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "iHQlbG3X9eJWZiwOvACi8",
+            "text": ". If a prerelease is used, the root package will not link to the packages in the ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "lHaAYsxGN7JBdkDyEr19-",
+            "text": "packages",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "znltsMdAeUkgN0U8kFkCu",
+            "text": " directory creating hard to diagnose issues.",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "RRfd8ap01xtjobJuK_Lv6",
+        "data": {},
+        "type": "h3",
+        "nodes": [
+          {
+            "key": "p3MA932GGFHJdTbEXmAU8",
+            "text": "Publishing Normal ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "bE02HtB7aByUWLd2vm0KD",
+            "text": "@latest",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "xMp55g2YX09c47RrjwB4j",
+            "text": " Release",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "VtQhYZsMtCRS0Q2UQqORv",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "XxuZpt1PkaRPCSg36qPqq",
+            "text": "Since we use ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "ef8rcp9XuaNcZvIT2D3Kj",
+            "data": {
+              "href": "https://lerna.js.org"
+            },
+            "type": "link",
+            "nodes": [
+              {
+                "key": "DlF7y8DBP4lVZVFw2LOWq",
+                "text": "Lerna",
+                "marks": [],
+                "object": "text"
+              }
+            ],
+            "object": "inline"
+          },
+          {
+            "key": "LFQfnoHyo05rRnH7GipyO",
+            "text": " to manage the Slate packages this is fairly easy, just run:",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "OMR7C4tRopaRy5PPDcV3_",
+        "data": {
+          "code": {
+            "text": "yarn release:latest"
+          },
+          "language": "text"
+        },
+        "type": "code-editor",
+        "nodes": [
+          {
+            "key": "D_ki8U_n9u9_S_l1KCSSU",
+            "text": "",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "Kj7ko2tAN7ENtofjNth-J",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "uLteLTwQaQW-kHqdfZpE5",
+            "text": "And follow the prompts Lerna gives you.",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "12xbJcEzB5DeHDuQPpe4F",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "2tIumjmE0AwTfotPRb7yv",
+            "text": "Note that this will automatically run the prelease script first that will build, test and lint before attempting to publish.",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "9mUukAUf4I_6GshtTlOUo",
+        "data": {},
+        "type": "h3",
+        "nodes": [
+          {
+            "key": "8GMYhtPq4nfqwU6c9qJRz",
+            "text": "Publishing ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "jZq0C4EWfQXSveMuOYdyF",
+            "text": "@next",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "30Yy1JQy8Xi7QRzN6nEaP",
+            "text": " Release",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "86Vp_vvChBE3l7zG8EQqE",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "AJuMoMnOR5Dz9kBxDATe9",
+            "text": "If we are unsure as to the stability of a release because there are significant changes and/or particularly complex changes, release with the ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "sWRFQMISFJrUKSu7SM7Tp",
+            "text": "@next",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "MS2lUhh9J4LyzbR85cc4g",
+            "text": " tag.",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "F8ZePFBr6R3-5b7Vt0O3v",
+        "data": {
+          "code": {
+            "text": "yarn release:next"
+          },
+          "language": "text"
+        },
+        "type": "code-editor",
+        "nodes": [
+          {
+            "key": "InXM3QQcBU_7JILqrhRKR",
+            "text": "",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "no0AUK3oDTONggalUOV39",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "Z9PbgV-OHQM4nCHu2Onz5",
+            "text": "And follow the prompts Lerna gives you.",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "YfPy10RzYGxKfcUhYSZ3k",
+        "data": {},
+        "type": "h3",
+        "nodes": [
+          {
+            "key": "39zF1wQ5XPbPzgnm9r6YR",
+            "text": "Publishing ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "dumsXW5FW88uZ06cvyEaa",
+            "text": "@experimental",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "IIbhF6Zryzu3xcKB4Ei4H",
+            "text": " Release",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "WMk7k-FkAlYkTbGgvH0Pr",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "APtSEN69llXobxi-ZEO_n",
+            "text": "If you need to create an experimental release to see how a published package will behave during an actual publish, release with the ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "xYGAVZbc1ZThf5MQgCjOp",
+            "text": "@experimental",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "301areUerhqMa6A5T9Bx5",
+            "text": " tag. End users should have no expectation that an ",
+            "marks": [],
+            "object": "text"
+          },
+          {
+            "key": "7NxPNWQ2J-C0oAbpQ2IGl",
+            "text": "@experimental",
+            "marks": [
+              {
+                "data": {},
+                "type": "highlight",
+                "object": "mark"
+              }
+            ],
+            "object": "text"
+          },
+          {
+            "key": "pDCYScgzpfPsD3uOFMG5Y",
+            "text": " release will be usable.",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "hsxG14VthC2gQ9rN8aTBK",
+        "data": {
+          "code": {
+            "text": "yarn release:experimental"
+          },
+          "language": "text"
+        },
+        "type": "code-editor",
+        "nodes": [
+          {
+            "key": "INwmKFjnDURFdm5rWW2YT",
+            "text": "",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "Kvl91ZAG5dQGo0P1v0Ztx",
+        "data": {},
+        "type": "h3",
+        "nodes": [
+          {
+            "key": "vggfFasM04PsMnHGrmZ84",
+            "text": "Running Prerelease Script",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "cd49PDd4CIwh9AAPYEYWE",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "jB-5_ZHWtgDImBjt-TK5X",
+            "text": "If we want to make sure that Slate code follows the preparations for a release but without actually publishing, run:",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "TycK6Mqj-Fm7mqwjmmNaA",
+        "data": {
+          "code": {
+            "text": "yarn prerelease"
+          },
+          "language": "text"
+        },
+        "type": "code-editor",
+        "nodes": [
+          {
+            "key": "1Px75iFasqmqivEFR5ARi",
+            "text": "",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      },
+      {
+        "key": "2gl2ms8uwiMh18mFMSvpT",
+        "data": {},
+        "type": "paragraph",
+        "nodes": [
+          {
+            "key": "RMRr3VFD-tcmvrAIFrF5G",
+            "text": "Which will build, test and lint Slate code.",
+            "marks": [],
+            "object": "text"
+          }
+        ],
+        "object": "block"
+      }
+    ],
+    "object": "document"
+  }
+}
