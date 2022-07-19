@@ -1,4 +1,4 @@
-# Contributing
+# Www Contributing
 
 Want to contribute to Slate? That would be awesome!
 
